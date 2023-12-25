@@ -19,67 +19,67 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
   <tr>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/C.svg" width="48" height="48" alt="Python" />
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
       </a>
       <br>C
     </td>
      <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/Cpp.svg" width="48" height="48" alt="Python" />
+        <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="Vijayadityaraj-source">
-        <img src="./img/Python.svg" width="48" height="48" alt="Python" />
+      <a href="#Vijayadityaraj-source">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/Java.svg" width="48" height="48" alt="Python" />
+        <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/React.svg" width="48" height="48" alt="TypeScript" />
+        <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
       </a>
       <br>React.js
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/Javascript.svg" width="48" height="48" alt="Jsonnet" />
+        <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/javascript.png" alt="javascript"/>
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/Css.svg" width="48" height="48" alt="Jsonnet" />
+        <img width="48" height="48" src="https://img.icons8.com/ios/50/ffffff/css-filetype.png" alt="css-filetype"/>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/Express.svg" width="48" height="48" alt="Python" />
+        <img width="48" height="48" src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="express-js"/>
       </a>
       <br>Express.js
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/Tensorflow.svg" width="48" height="48" alt="Python" />
+        <img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
       </a>
       <br>Tensorflow
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/Github.svg" width="48" height="48" alt="Python" />
+        <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img src="./img/Vscode.svg" width="48" height="48" alt="Python" />
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio.png" alt="visual-studio"/>
       </a>
       <br>Vscode
     </td>
@@ -112,8 +112,7 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
   	    <li><b>Browser: </b> Chrome & Safari</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	    <li><b>To Stay Updated:</b> Twitter, Medium Newsletter</li>
 	</ul>
 </details>
 
