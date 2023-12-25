@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+💼 any freelance work? do reach, email :)
+
+💬 ask me about anything, i am happy to help;
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--
 **Vijayadityaraj-source/Vijayadityaraj-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
