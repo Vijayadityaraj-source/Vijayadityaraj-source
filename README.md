@@ -9,6 +9,7 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
 * 🧠  I'm learning React, Next.js and Tensorflow
 * 💼 any freelance work? do reach, email :)
 * 💬 ask me about anything, i am happy to help;
+* 🌸 Plan: Learning \o/
 
 <!--
 **Vijayadityaraj-source/Vijayadityaraj-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
