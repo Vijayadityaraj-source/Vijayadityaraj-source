@@ -8,7 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a passionate, creative, and perceptive engineer with a hands-on approach to problem-solving and an unending thirst for knowledge. Anything and everything that can be classified as technology fascinates me. Currently in my final year of undergrad at NITW pursuing Computer Science Engineering. I am Passionate about Web Development and Machine Learning.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Website](http://vijayaditya-portfolio.netlify.app)
 * ✉️  You can contact me at [vijayaditya.eng@gmail.com](mailto:vijayaditya.eng@gmail.com)
 * 🧠  I'm learning React, Next.js and Tensorflow
 * 💼 Any freelance work? do reach, email :)
