@@ -1,5 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vijayaditya
 ===================================================================================================================================
+![GitHub last commit](https://img.shields.io/github/last-commit/Vijayadityaraj-source/vijayadityaraj-source)
+[![website](https://img.shields.io/badge/website-informational)](http://vijayaditya-portfolio.netlify.app)
+![npm](https://img.shields.io/npm/v/vijayaditya?logo=npm&label=vijayaditya&labelColor=%23FAFAFA&color=%23CC3534)
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 I'm a passionate, creative, and perceptive engineer with a hands-on approach to problem-solving and an unending thirst for knowledge. Anything and everything that can be classified as technology fascinates me. Currently in my final year of undergrad at NITW pursuing Computer Science Engineering. I am Passionate about Web Development and Machine Learning.
 
