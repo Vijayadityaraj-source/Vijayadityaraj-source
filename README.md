@@ -45,15 +45,15 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
-        <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
-      </a>
-      <br>React.js
-    </td>
-    <td align="center" width="96">
-      <a href="#Vijayadityaraj-source">
         <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/javascript.png" alt="javascript"/>
       </a>
       <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#Vijayadityaraj-source">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-filetype"/>
+      </a>
+      <br>Html
     </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
@@ -67,6 +67,32 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
       </a>
       <br>Express.js
     </td>
+   <tr>
+  </tr>
+    <td align="center" width="96">
+      <a href="#Vijayadityaraj-source">
+        <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+      </a>
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <a href="#Vijayadityaraj-source">
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
+      </a>
+      <br>Next Js
+    </td>
+    <td align="center" width="96">
+      <a href="#Vijayadityaraj-source">
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind-css"/>
+      </a>
+      <br>Tailwind
+    </td>   
+    <td align="center" width="96">
+      <a href="#Vijayadityaraj-source">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+      </a>
+      <br>Firebase
+    </td>   
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
         <img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
