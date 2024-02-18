@@ -135,12 +135,12 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
+  	    <li><b>OS:</b> MacOS 14 Sonoma</li>
 	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
+  	    <li><b>Browser: </b> Arc </li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	    <li><b>To Stay Updated:</b> Twitter, Medium Newsletter</li>
+	    <li><b>Code Editor:</b> VSCode & Zed(Hella Fast)</li>
+	    <li><b>To Stay Updated:</b> Twitter, Medium Newsletter </li>
 	</ul>
 </details>
 
