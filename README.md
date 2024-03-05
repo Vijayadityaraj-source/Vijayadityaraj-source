@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vijayaditya
 ===================================================================================================================================
-[![website](https://img.shields.io/badge/website-informational)]([https://vijayaditya-source.vercel.app/](https://vijayaditya-source.vercel.app/))
+[![website](https://img.shields.io/badge/website-informational)](https://vijayaditya-source.vercel.app/)
 ![npm](https://img.shields.io/npm/v/vijayaditya?logo=npm&label=vijayaditya&labelColor=%23FAFAFA&color=%23CC3534)
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
