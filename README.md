@@ -13,6 +13,11 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
 * 💬 Ask me about anything, i am happy to help;
 * 🌸 Plan: Learning \o/
 
+> Now Playing
+<a href="https://now-playing-spotify-server.vercel.app/now-playing?open">
+    <img src="https://now-playing-spotify-server.vercel.app/now-playing" width="512" height="64" alt="Now Playing">
+</a>
+
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -142,9 +147,6 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
 	</ul>
 </details>
 
-<a href="https://now-playing-spotify-server.vercel.app/now-playing?open">
-    <img src="https://now-playing-spotify-server.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
 <!--
 **Vijayadityaraj-source/Vijayadityaraj-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
