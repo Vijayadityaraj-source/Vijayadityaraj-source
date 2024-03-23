@@ -114,8 +114,6 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
   </tr>
 </table>
 
-### Projects and Dev Stuffs:
-
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -144,7 +142,9 @@ I'm a passionate, creative, and perceptive engineer with a hands-on approach to 
 	</ul>
 </details>
 
-
+<a href="https://now-playing-spotify-server.vercel.app/now-playing?open">
+    <img src="https://now-playing-spotify-server.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 <!--
 **Vijayadityaraj-source/Vijayadityaraj-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
