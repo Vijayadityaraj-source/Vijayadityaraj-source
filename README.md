@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![npm](https://img.shields.io/npm/v/vijayaditya?logo=npm&label=vijayaditya&labelColor=%23FAFAFA&color=%23CC3534)
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-I'm a passionate, creative, and perceptive engineer with a hands-on approach to problem-solving and an unending thirst for knowledge. Anything and everything that can be classified as technology fascinates me. Currently in my final year of undergrad at NITW pursuing Computer Science Engineering. I am Passionate about Web Development and Machine Learning.
+I am a passionate, creative, and perceptive engineer with a hands-on approach to problem-solving and an unending thirst for knowledge. Technology in all its forms fascinates me. I recently graduated from NIT Warangal with a degree in Computer Science Engineering. I have a strong passion for Web Development and Machine Learning.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vijayaditya.eng@gmail.com](mailto:vijayaditya.eng@gmail.com)
