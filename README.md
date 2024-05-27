@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there! I'm Vijayaditya.
-===================================================================================================================================
+<h1>Hi👋 there! I'm Vijayaditya.</h1>
+
 [![website](https://img.shields.io/badge/website-informational)](https://vijayaditya-source.vercel.app/)
 ![npm](https://img.shields.io/npm/v/vijayaditya?logo=npm&label=vijayaditya&labelColor=%23FAFAFA&color=%23CC3534)
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<p>Any work? Drop a mail : <b>vijayaditya.eng@gmail.com</b></p>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I work with.
 
 <table>
   <tr>
@@ -105,7 +105,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </tr>
 </table>
 
-> Now Playing
+> Listening to
 <a href="https://now-playing-spotify-server.vercel.app/now-playing?open">
     <img src="https://now-playing-spotify-server.vercel.app/now-playing" width="512" height="64" alt="Now Playing">
 </a>
