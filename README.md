@@ -5,6 +5,7 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 <p>Any work? Drop a mail : <b>vijayaditya.eng@gmail.com</b></p>
+<p>Checkout my blog : <b>medium.com/@vijayadityar</b></p>
 
 > Tools, languages, and other things that I work with.
 
