@@ -1,22 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vijayaditya
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there! I'm Vijayaditya.
 ===================================================================================================================================
 [![website](https://img.shields.io/badge/website-informational)](https://vijayaditya-source.vercel.app/)
 ![npm](https://img.shields.io/npm/v/vijayaditya?logo=npm&label=vijayaditya&labelColor=%23FAFAFA&color=%23CC3534)
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-
-I am a passionate, creative, and perceptive engineer with a hands-on approach to problem-solving and an unending thirst for knowledge. Technology in all its forms fascinates me. I recently graduated from NIT Warangal with a degree in Computer Science Engineering. I have a strong passion for Web Development and Machine Learning.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [vijayaditya.eng@gmail.com](mailto:vijayaditya.eng@gmail.com)
-* 🧠  I'm learning React, Next.js and Tensorflow
-* 💼 Any freelance work? do reach, email :)
-* 💬 Ask me about anything, i am happy to help;
-* 🌸 Plan: Learning \o/
-
-> Now Playing
-<a href="https://now-playing-spotify-server.vercel.app/now-playing?open">
-    <img src="https://now-playing-spotify-server.vercel.app/now-playing" width="512" height="64" alt="Now Playing">
-</a>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -119,45 +105,7 @@ I am a passionate, creative, and perceptive engineer with a hands-on approach to
   </tr>
 </table>
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vijayadityaraj-source&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayadityaraj-source&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayadityaraj-source&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS 14 Sonoma</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Arc </li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode & Zed(Hella Fast)</li>
-	    <li><b>To Stay Updated:</b> Twitter, Medium Newsletter </li>
-	</ul>
-</details>
-
-<!--
-**Vijayadityaraj-source/Vijayadityaraj-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Now Playing
+<a href="https://now-playing-spotify-server.vercel.app/now-playing?open">
+    <img src="https://now-playing-spotify-server.vercel.app/now-playing" width="512" height="64" alt="Now Playing">
+</a>
