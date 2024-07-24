@@ -78,7 +78,13 @@
         <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind-css"/>
       </a>
       <br>Tailwind
-    </td>   
+    </td>
+    <td align="center" width="96">
+      <a href="#Vijayadityaraj-source">
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
+      </a>
+      <br>MySql
+    </td>
     <td align="center" width="96">
       <a href="#Vijayadityaraj-source">
         <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
