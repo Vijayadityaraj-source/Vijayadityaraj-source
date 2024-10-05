@@ -1,7 +1,7 @@
 <h1>Hi👋 there! I'm Vijayaditya.</h1>
 
 [![website](https://img.shields.io/badge/website-informational)](https://vijayaditya-source.vercel.app/)
-![npm](https://img.shields.io/npm/v/vijayaditya?logo=npm&label=vijayaditya&labelColor=%23FAFAFA&color=%23CC3534)
+[![npm](https://img.shields.io/npm/v/vijayaditya?logo=npm&label=vijayaditya&labelColor=%23FAFAFA&color=%23CC3534)](https://www.npmjs.com/package/vijayaditya)
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 <p>Any work? Drop a mail : <b>vijayaditya.eng@gmail.com</b></p>
